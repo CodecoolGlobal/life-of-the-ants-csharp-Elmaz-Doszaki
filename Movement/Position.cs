@@ -1,4 +1,5 @@
-﻿namespace Codecool.LifeOfAnts
+﻿namespace Movement
+
 {
     /// <summary>
     ///     Position struct
@@ -19,11 +20,11 @@
         /// <summary>
         ///     Gets X coordinate
         /// </summary>
-        public int X { get; }
+        public int X { get; set; }
 
         /// <summary>
         ///     Gets Y coordinate
         /// </summary>
-        public int Y { get; }
+        public int Y { get; set; }
     }
 }

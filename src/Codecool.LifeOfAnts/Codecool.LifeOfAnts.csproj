@@ -11,4 +11,9 @@
     <CodeAnalysisRuleSet>..\Codecool.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ants\Ants.csproj" />
+    <ProjectReference Include="..\..\Movement\Movement.csproj" />
+  </ItemGroup>
+
 </Project>

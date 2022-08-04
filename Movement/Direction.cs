@@ -1,4 +1,4 @@
-﻿namespace Codecool.LifeOfAnts
+﻿namespace Movement
 {
     /// <summary>
     ///     Direction enum
